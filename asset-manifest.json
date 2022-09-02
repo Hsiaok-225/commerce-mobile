@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/commerce-mobile/static/css/main.e6c13ad2.css",
+    "main.js": "/commerce-mobile/static/js/main.d9e6a2f5.js",
+    "static/media/dlf.pt-audifonos-dj-png-3986295.png": "/commerce-mobile/static/media/dlf.pt-audifonos-dj-png-3986295.0809d3579cdc8aaaa308.png",
+    "index.html": "/commerce-mobile/index.html",
+    "main.e6c13ad2.css.map": "/commerce-mobile/static/css/main.e6c13ad2.css.map",
+    "main.d9e6a2f5.js.map": "/commerce-mobile/static/js/main.d9e6a2f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9e6a2f5.js"
+  ]
+}
