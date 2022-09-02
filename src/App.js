@@ -38,7 +38,7 @@ const Panel = styled.div`
   padding-top: 12px;
   border-radius: 1rem 1rem 0 0;
 
-  @media screen and (min-width: 375px) {
+  @media screen and (min-width: 400px) {
     height: 100%;
   }
 `;
